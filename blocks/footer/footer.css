@@ -1,0 +1,38 @@
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  max-width: 1184px;
+  margin: 92px auto 24px auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .footer {
+    margin: 92px 48px 24px 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    margin: 88px 24px 24px 24px;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .footer {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    gap: 48px;
+    margin: 64px 0px 24px 16px;
+  }
+}
