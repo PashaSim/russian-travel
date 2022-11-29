@@ -1,12 +1,12 @@
 .places {
-  margin: 0 auto;
+  margin: 0 auto 92px;
   display: block;
   max-width: 984px;
 }
 
 @media screen and (max-width: 1024px) {
   .places {
-    margin: 0 48px 92px 42px;
+    margin: 0 48px 148px 48px;
   }
 }
 
