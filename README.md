@@ -4,5 +4,5 @@
 
 Технологии: Тут исполюзуются такие технологии как Grid контейнеры, Flexbox контейнеры, так же сайт сжимается под разные устройства с помощью адаптации.
 
-Ссылка на проект:https://github.com/PashaSim/russian-travel.index.html
+Ссылка на проект:https://github.com/PashaSim/russian-travel
 
