@@ -12,7 +12,14 @@
 
 @media screen and (max-width: 768px) {
   .places {
-    margin: 0 24px 90px 24px;
+    margin: 0 24px 65px 24px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .places {
+    margin: 0 0 66px 0;
+    max-width: 100%;
   }
 }
 
