@@ -32,10 +32,16 @@ margin: 0 auto 64px auto;
 
 @media screen and (max-width: 426px) {
   .lead__subtitle {
-    width: 90%;
+    width: 80%;
     font-size: 16px;
     line-height: 20px;
     margin-bottom: 40px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__subtitle {
+    width: 90%;
   }
 }
 
