@@ -15,10 +15,3 @@
   }
 }
 
-@media screen and (min-width: 426px) {
-  .intro__title br {
-    display: none;
-  }
-}
-
-
