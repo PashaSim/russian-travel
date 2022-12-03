@@ -8,7 +8,8 @@
       -ms-flex-pack: justify;
           justify-content: space-between;
   max-width: 1184px;
-  margin: 92px auto 24px auto;
+  margin: 0 auto;
+  padding: 92px 0 24px 0;
 }
 
 @media screen and (max-width: 1024px) {
